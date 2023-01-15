@@ -1,0 +1,46 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.Navbar{
+  height: 70px;
+  background: #FFFFFF;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  display: flex;
+  padding: 30px 36px;
+}
+.header--img{
+  display: flex;
+  margin-left: auto;
+  margin-right:auto;
+  padding: 30px 10px;
+}
+.header--headline{
+  padding-top: 20px;
+  margin-left: 140px;
+
+}
+.header--text{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 110%;
+margin-left: 170px;
+}
+.Main--card{
+  display: flex;
+  padding: 80px 40px;
+}
+.Card--img{
+  height: 353px;
+  width: 264px;
+  border-radius: 9px;
+}
+.card--rate{
+  padding-top: 10px;
+}
+.Card{
+  margin-left: 140px;
+}
